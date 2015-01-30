@@ -1,0 +1,14 @@
+MySQL-python
+python-greenlet
+libxslt-devel
+python-lxml
+python-paste
+python-paste-deploy
+python-paste-script
+python-routes
+python-sqlalchemy
+python-webob
+sqlite
+mod_ssl
+
+# Deps installed via pip for RHEL
